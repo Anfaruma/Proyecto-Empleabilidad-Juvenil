@@ -1,6 +1,6 @@
 # Programa Integral para la Empleabilidad y la Inclusión Productiva
 
-## Proposito
+## Propósito
 Fortalecer la empleabilidad de los jóvenes mediante el desarrollo de competencias laborales, habilidades socioemocionales y mecanismos de conexión con oportunidades de empleo y formación, logrando que al menos el 60% de los participantes mejore sus condiciones de acceso al mercado laboral formal durante un período de 12 meses de ejecución del proyecto. 
 
 ## Alcance
