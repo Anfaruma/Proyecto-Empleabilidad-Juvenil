@@ -28,6 +28,10 @@ Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Pro
 ## Insumos disponibles
 [Ficha Técnica del proyecto](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/commit/6040c537b1ffd23608f0582156dd0a0657e9c50b)
 
+## Herramientas Complementarias
+- Microsoft 365 (Word, Excel y OneDrive): Gestión documental colaborativa en la nube, redacción de informes y estructuración de la base de datos de seguimiento e inserción laboral.
+- Microsoft Forms: Recopilación de información, inscripción de los jóvenes y aplicación de los instrumentos de diagnóstico.
+
 ## Cómo se gestiona
 Cada actividad se registra como Issue y se visualiza con GitHub Projects. El cierre requiere evidencia y verificación, no solamente cambio de estado.
 
