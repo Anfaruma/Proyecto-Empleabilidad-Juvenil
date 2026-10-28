@@ -9,6 +9,11 @@ Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Pro
 ## Componentes y actividades
 [Actividades del proyecto](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues)
 
+| Componente | Issues |
+| --- | --- |
+| Gestión y planeación | [ACT-01](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/1)., [ACT-02](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/2) |
+| Convocatoria y vinculación | [ACT-03](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/4)., [ACT-04](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/5)., [ACT-05](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/6)
+
 ## Equipo y responsabilidades
 
 | Persona | Función |
