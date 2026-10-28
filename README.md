@@ -12,7 +12,10 @@ Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Pro
 | Componente | Issues |
 | --- | --- |
 | Gestión y planeación | [ACT-01](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/1) [ACT-02](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/2) |
-| Convocatoria y vinculación | [ACT-03](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/4)., [ACT-04](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/5)., [ACT-05](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/6)
+| Convocatoria y vinculación | [ACT-03](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/4) [ACT-04](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/5) [ACT-05](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/6) 
+| Formación y desarrollo de competencias | [ACT-06](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/7) [ACT-07](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/8)
+| Orientación e intermediación laboral | [ACT-08](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/9) [ACT-09](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/10) [ACT-10](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/11) [ACT-11](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/12)
+| Seguimiento y cierre | [ACT-12](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/13) [ACT-13](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/14)
 
 ## Equipo y responsabilidades
 
