@@ -1,6 +1,7 @@
 ## Indice Evidencias | Programa Integral para la Empleabilidad y la Inclusión Productiva
 
 | Actividad | Evidencia exigida para cierre | Situación Actual |
+| --- | --- |
 | [ACT-01](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/1) | Plan operativo y plan de seguimiento aprobados| Existe un plan operativo de referencia, pendiente aprobación | 
 | [ACT-02](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/2) | Instrumentos de caracterización validados | Pendiente |
 | [ACT-03](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues/4) | Informe de convocatoria y piezas de difusión | Pendiente |
