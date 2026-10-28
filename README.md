@@ -10,16 +10,19 @@ Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Pro
 [Actividades del proyecto](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues)
 
 ## Equipo y responsabilidades
-- Andrés Ruiz: Coordinación general y seguimiento
-- Kelly Uribe: Administración documental
-- Yennifer Ariza: Instrumento y convocatoria
-- Camilo Valero: Formulación técnica y articulación
-- Lorena Salamanca: Problema, diagnóstico y análisis
-- Todos los integrantes: Ejecución y validación
+
+| Persona | Función |
+| --- | --- |
+| Andrés Ruiz | Coordinación general y seguimiento |
+| Kelly Uribe | Administración documental |
+| Yennifer Ariza | Instrumento y convocatoria |
+| Camilo Valero | Formulación técnica y articulación |
+| Lorena Salamanca | Problema, diagnóstico y análisis |
+| Todos los integrantes | Ejecución y validación |
 
 ## Organización de documentos
 - `01_formulacion/`: ficha del proyecto y documentos de alcance.
-- `02_evidencias/`: productos y evidencias autorizadas que ya existan.
+- `02_evidencias/`: productos y evidencias autorizadas que ya existan
 - `03_seguimiento/`: acuerdos, decisiones y reportes de avance
 
 ## Seguimiento del proyecto
