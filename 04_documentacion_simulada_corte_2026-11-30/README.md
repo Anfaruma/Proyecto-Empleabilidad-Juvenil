@@ -49,3 +49,22 @@ Para cada ficha se utiliza una escala de cuatro dimensiones de igual peso (25 pu
 4. Para vacantes y remisiones, registrar fuente, fecha, vigencia y resultado, protegiendo datos personales.
 5. No marcar una actividad como cerrada sin cumplir su criterio de cierre y adjuntar evidencia auténtica.
 6. Toda simulación debe conservar la etiqueta **SIMULACIÓN — NO ES EVIDENCIA REAL**.
+
+
+## Paquetes documentales simulados por actividad
+Cada actividad cuenta ahora con un paquete complementario de modelos y documentos ilustrativos (no evidencia real):
+- [ACT-01 — Paquete documental simulado](ACT-01/Paquete_Documental_Simulado.md)
+- [ACT-02 — Paquete documental simulado](ACT-02/Paquete_Documental_Simulado.md)
+- [ACT-03 — Paquete documental simulado](ACT-03/Paquete_Documental_Simulado.md)
+- [ACT-04 — Paquete documental simulado](ACT-04/Paquete_Documental_Simulado.md)
+- [ACT-05 — Paquete documental simulado](ACT-05/Paquete_Documental_Simulado.md)
+- [ACT-06 — Paquete documental simulado](ACT-06/Paquete_Documental_Simulado.md)
+- [ACT-07 — Paquete documental simulado](ACT-07/Paquete_Documental_Simulado.md)
+- [ACT-08 — Paquete documental simulado](ACT-08/Paquete_Documental_Simulado.md)
+- [ACT-09 — Paquete documental simulado](ACT-09/Paquete_Documental_Simulado.md)
+- [ACT-10 — Paquete documental simulado](ACT-10/Paquete_Documental_Simulado.md)
+- [ACT-11 — Paquete documental simulado](ACT-11/Paquete_Documental_Simulado.md)
+- [ACT-12 — Paquete documental simulado](ACT-12/Paquete_Documental_Simulado.md)
+- [ACT-13 — Paquete documental simulado](ACT-13/Paquete_Documental_Simulado.md)
+
+Los paquetes incluyen, según la naturaleza de cada actividad, procedimientos, instrumentos, matrices, cronogramas, formatos, informes modelo, registros de ejemplo ficticios y criterios de validación. Para ACT-06 a ACT-13, al corte 30/11/2026, el contenido se presenta como diseño y alistamiento de actividades futuras.
