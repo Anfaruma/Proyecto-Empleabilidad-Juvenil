@@ -48,3 +48,14 @@ Cada actividad se registra como Issue y se visualiza con GitHub Projects. El cie
 
 ## Protección de datos
 No se publican datos personales identificables ni información reservada.
+
+
+## Expediente de seguimiento documental
+Se incorporó un expediente de documentación metodológica para el corte solicitado del **30 de noviembre de 2026**:
+- [Expediente y criterios de uso](04_documentacion_simulada_corte_2026-11-30/README.md)
+- [Matriz consolidada de seguimiento](04_documentacion_simulada_corte_2026-11-30/Matriz_Seguimiento.md)
+- [Registro maestro de evidencias requeridas](04_documentacion_simulada_corte_2026-11-30/Registro_Evidencias.md)
+- [Acta modelo de comité](04_documentacion_simulada_corte_2026-11-30/Acta_Modelo_Comite.md)
+- Fichas individuales: [ACT-01](04_documentacion_simulada_corte_2026-11-30/ACT-01/README.md) · [ACT-02](04_documentacion_simulada_corte_2026-11-30/ACT-02/README.md) · [ACT-03](04_documentacion_simulada_corte_2026-11-30/ACT-03/README.md) · [ACT-04](04_documentacion_simulada_corte_2026-11-30/ACT-04/README.md) · [ACT-05](04_documentacion_simulada_corte_2026-11-30/ACT-05/README.md) · [ACT-06](04_documentacion_simulada_corte_2026-11-30/ACT-06/README.md) · [ACT-07](04_documentacion_simulada_corte_2026-11-30/ACT-07/README.md) · [ACT-08](04_documentacion_simulada_corte_2026-11-30/ACT-08/README.md) · [ACT-09](04_documentacion_simulada_corte_2026-11-30/ACT-09/README.md) · [ACT-10](04_documentacion_simulada_corte_2026-11-30/ACT-10/README.md) · [ACT-11](04_documentacion_simulada_corte_2026-11-30/ACT-11/README.md) · [ACT-12](04_documentacion_simulada_corte_2026-11-30/ACT-12/README.md) · [ACT-13](04_documentacion_simulada_corte_2026-11-30/ACT-13/README.md)
+
+> **Nota de integridad:** las fichas y el avance de 75% son una simulación de completitud documental para planeación. No son evidencia de ejecución real. Las actividades futuras al corte se describen como alistamiento. No se deben cargar datos personales ni soportes ficticios.
