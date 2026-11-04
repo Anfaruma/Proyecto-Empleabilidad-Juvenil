@@ -39,6 +39,12 @@ Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Pro
 ## Insumos disponibles
 [Informe de Diagnóstico Poblacional, Perfiles de Empleabilidad y Hallazgos Exploratorios](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Informe%20de%20Diagn%C3%B3stico%20Poblacional%2C%20Perfiles%20de%20Empleabilidad%20y%20Hallazgos%20Exploratorios.pdf) 
 
+[Instrumento de Diagnóstico Caracterización y Barreras de Empleabilidad](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Instrumento%20de%20Diagn%C3%B3stico%20Caracterizaci%C3%B3n%20y%20Barreras%20de%20Empleabilidad.pdf)
+
+[Informe de aplicación de Instrumento de Diagnóstico Caracterización y Barreras de Empleabilidad](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Informe_Aplicaci%C3%B3n%20de%20Instrumento%20de%20Diagn%C3%B3stico.pdf)
+
+[Lienzo de Modelación del Proyecto (Canvas)](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Lienzo%20de%20Modelaci%C3%B3n%20del%20Proyecto%20(Canvas).pdf)
+
 [Ficha técnica del proyecto](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Ficha%20de%20preparaci%C3%B3n%20para%20GitHub.pdf)
 
 ## Herramientas Complementarias
