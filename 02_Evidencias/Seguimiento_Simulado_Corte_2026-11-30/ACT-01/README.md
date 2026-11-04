@@ -39,11 +39,11 @@ Validar versión aprobada y completar línea base con fuente verificable.
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
-| Resultado de validación | Pendiente |
-| Enlace al soporte autorizado | Pendiente |
-| Observaciones | Pendiente |
+| Fecha real de revisión | 17/09/2026 a 25/09/2026 |
+| Responsable que valida | Andres Ruiz |
+| Soporte revisado | Plan Operativo de seguimiento |
+| Resultado de validación | Cerrado |
+| Enlace al soporte autorizado | Cerrado |
+| Observaciones | NA |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
