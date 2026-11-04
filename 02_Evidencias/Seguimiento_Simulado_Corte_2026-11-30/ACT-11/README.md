@@ -39,7 +39,7 @@ Al corte, dejar protocolo y formatos; no crear remisiones ni contrataciones fict
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | 15 de febrero de 2027 |
+| Fecha real de revisión | 15 de abril de 2027 |
 | Responsable que valida | Lorena Salamanca Tarapues |
 | Soporte revisado | Remisión de información y vacantes laborales consolidadas |
 | Resultado de validación | Pendiente |
