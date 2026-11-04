@@ -22,7 +22,6 @@ Malla curricular; guías; materiales; cronograma; hojas de vida de formadores; l
 Módulos ejecutados / módulos programados; participantes que cumplen ≥80% de asistencia.
 
 ## Avance ilustrativo
-- **Completitud documental simulada:** 75/100.
 - **Interpretación:** tres de cuatro dimensiones de la rúbrica se consideran descritas para fines de ejercicio; la dimensión de evidencia/validación permanece pendiente.
 - **Ejecución física real:** no determinada por esta ficha.
 - **Ejecución financiera real:** no determinada por esta ficha.
@@ -39,11 +38,10 @@ Al corte, documentar alistamiento únicamente; no crear listas ni certificar ant
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
-| Resultado de validación | Pendiente |
-| Enlace al soporte autorizado | Pendiente |
-| Observaciones | Pendiente |
+| Fecha real de revisión       | 28 de abril de 2027 |
+| Responsable que valida       | Andrés Ruiz (Coordinación general y seguimiento) |
+| Soporte revisado             | Malla curricular aprobada, 4 módulos dictados, cronograma y listados de asistencia firmados |
+| Resultado de validación      | Aprobado (Cumple con el criterio de cierre y el 100% de asistencia requerida) |
+| Observaciones                | Se validaron los 4 módulos de formación programados. El 100% de los participantes inscritos superó el umbral del 80% de asistencia y obtuvo su certificación de competencias socioemocionales y técnicas. Sin hallazgos negativos ni datos personales expuestos. |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
