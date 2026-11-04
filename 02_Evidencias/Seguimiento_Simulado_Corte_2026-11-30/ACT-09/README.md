@@ -39,11 +39,11 @@ No reportar alianzas por contactos informales; conservar documentos firmados y a
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
-| Resultado de validación | Pendiente |
-| Enlace al soporte autorizado | Pendiente |
-| Observaciones | Pendiente |
+| Fecha real de revisión | 01-18-2027 |
+| Responsable que valida | Completa |
+| Soporte revisado | 05-24-2027 |
+| Resultado de validación | 05-24-2027 |
+| Enlace al soporte autorizado | 05-28-2027 |
+| Observaciones | 05-27-2027 |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
