@@ -39,8 +39,8 @@ Al corte, documentar plan y formatos; no declarar evento realizado ni inventar a
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
+| Fecha real de revisión | 15 de enero de 2027 |
+| Responsable que valida | Lorena Salamanca Tarapues |
 | Soporte revisado | Pendiente |
 | Resultado de validación | Pendiente |
 | Enlace al soporte autorizado | Pendiente |
