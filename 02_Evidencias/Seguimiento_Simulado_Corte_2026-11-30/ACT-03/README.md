@@ -39,10 +39,10 @@ Verificar piezas, fechas y cobertura real; corregir dependencia autorreferencial
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Realizado - 03/11/2026|
+| Fecha real de revisión | 20/10/2026 a 20/11/2026|
 | Responsable que valida | kelly Uribe |
-| Soporte revisado | Realizado |
-| Resultado de validación | Realizado |
-| Observaciones | Realizado |
+| Soporte revisado | Indicadores de participacion |
+| Resultado de validación | Pendiente |
+| Observaciones | Pendiente |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
