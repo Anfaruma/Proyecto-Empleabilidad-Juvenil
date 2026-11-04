@@ -60,10 +60,15 @@ No se publican datos personales identificables ni información reservada.
 
 ## Expediente de seguimiento documental
 Se incorporó un expediente de documentación metodológica para el corte solicitado del **30 de noviembre de 2026**:
-- [Expediente y criterios de uso](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/README.md)
-- [Matriz consolidada de seguimiento](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/Matriz_Seguimiento.md)
-- [Registro maestro de evidencias requeridas](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/Registro_Evidencias.md)
-- [Acta modelo de comité](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/Acta_Modelo_Comite.md)
-- Fichas individuales: [ACT-01](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-01/README.md) · [ACT-02](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-02/README.md) · [ACT-03](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-03/README.md) · [ACT-04](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-04/README.md) · [ACT-05](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-05/README.md) · [ACT-06](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-06/README.md) · [ACT-07](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-07/README.md) · [ACT-08](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-08/README.md) · [ACT-09](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-09/README.md) · [ACT-10](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-10/README.md) · [ACT-11](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-11/README.md) · [ACT-12](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-12/README.md) · [ACT-13](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-13/README.md)
+
+[Expediente y criterios de uso](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/README.md)
+
+[Matriz consolidada de seguimiento](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/Matriz_Seguimiento.md)
+
+[Registro maestro de evidencias requeridas](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/Registro_Evidencias.md)
+
+[Acta modelo de comité](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/Acta_Modelo_Comite.md)
+
+Fichas individuales: [ACT-01](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-01/README.md) · [ACT-02](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-02/README.md) · [ACT-03](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-03/README.md) · [ACT-04](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-04/README.md) · [ACT-05](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-05/README.md) · [ACT-06](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-06/README.md) · [ACT-07](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-07/README.md) · [ACT-08](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-08/README.md) · [ACT-09](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-09/README.md) · [ACT-10](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-10/README.md) · [ACT-11](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-11/README.md) · [ACT-12](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-12/README.md) · [ACT-13](02_Evidencias/Seguimiento_Simulado_Corte_2026-11-30/ACT-13/README.md)
 
 > **Nota de integridad:** las fichas y el avance de 75% son una simulación de completitud documental para planeación. No son evidencia de ejecución real. Las actividades futuras al corte se describen como alistamiento. No se deben cargar datos personales ni soportes ficticios.
