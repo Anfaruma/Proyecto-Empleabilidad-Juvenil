@@ -39,9 +39,9 @@ No publicar bases nominales; verificar los 200 registros contra fuente real; cor
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
+| Fecha real de revisión | 20/10/2026 a 20/11/2026 |
+| Responsable que valida | Kelly Uribe |
+| Soporte revisado | Base de datos de participantes inscritos |
 | Resultado de validación | Pendiente |
 | Enlace al soporte autorizado | Pendiente |
 | Observaciones | Pendiente |
