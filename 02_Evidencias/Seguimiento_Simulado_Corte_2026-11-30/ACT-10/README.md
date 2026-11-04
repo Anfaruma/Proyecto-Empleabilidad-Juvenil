@@ -39,7 +39,7 @@ Al corte, documentar plan y formatos; no declarar evento realizado ni inventar a
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | 15 de enero de 2027 |
+| Fecha real de revisión | 1 de marzo de 2027 |
 | Responsable que valida | Lorena Salamanca Tarapues |
 | Soporte revisado | Informe con empresas participantes, jóvenes asistentes y vacantes ofertadas |
 | Resultado de validación | Pendiente |
