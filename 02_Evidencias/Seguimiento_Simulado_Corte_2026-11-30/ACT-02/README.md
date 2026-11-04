@@ -39,11 +39,11 @@ Obtener validación técnica, jurídica y de protección de datos antes de recop
 ## Bitácora de validación
 | Campo | Diligenciamiento |
 |---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
-| Resultado de validación | Pendiente |
-| Enlace al soporte autorizado | Pendiente |
-| Observaciones | Pendiente |
+| Fecha real de revisión | 17/09/2026 |
+| Responsable que valida | Andres Ruiz |
+| Soporte revisado | Instrumento de caracterización validado |
+| Resultado de validación | Cerrado |
+| Enlace al soporte autorizado | Cerrado |
+| Observaciones | Encuesta Simulada |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
