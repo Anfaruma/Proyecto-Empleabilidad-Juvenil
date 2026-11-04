@@ -50,6 +50,8 @@ Durante 12 meses, el Programa Integral para la Empleabilidad y la Inclusión Pro
 ## Herramientas Complementarias
 - Microsoft 365 (Word, Excel y OneDrive): Gestión documental colaborativa en la nube, redacción de informes y estructuración de la base de datos de seguimiento e inserción laboral.
 - Microsoft Forms: Recopilación de información, inscripción de los jóvenes y aplicación de los instrumentos de diagnóstico.
+- GitHub Projects & Issues:Control de flujo de trabajo, asignación de responsables y seguimiento del estado de las 13 actividades (ACT-01 a ACT-13).
+- GitHub (Markdown): Centralización de la documentación pública del proyecto, guías del usuario y repositorio.
 
 ## Cómo se gestiona
 Cada actividad se registra como Issue y se visualiza con GitHub Projects. El cierre requiere evidencia y verificación, no solamente cambio de estado.
