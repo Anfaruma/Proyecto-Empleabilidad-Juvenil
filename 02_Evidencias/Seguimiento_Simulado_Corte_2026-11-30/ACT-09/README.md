@@ -40,10 +40,10 @@ No reportar alianzas por contactos informales; conservar documentos firmados y a
 | Campo | Diligenciamiento |
 |---|---|
 | Fecha real de revisión | 01-18-2027 |
-| Responsable que valida | Completa |
-| Soporte revisado | 05-24-2027 |
-| Resultado de validación | 05-24-2027 |
-| Enlace al soporte autorizado | 05-28-2027 |
-| Observaciones | 05-27-2027 |
+| Responsable que valida | Camilo Valero – Responsable funcional de Orientación e intermediación laboral. |
+| Soporte revisado | Plantilla de rutas individuales de empleabilidad, guía de entrevista, plan de sesiones y formato de seguimiento individual y grupal. |
+| Resultado de validación | Validación documental parcial. Se verifica la existencia de los formatos y la metodología propuesta para documentar las rutas de empleabilidad. |
+| Enlace al soporte autorizado | Repositorio documental del proyecto – Carpeta ACT-08: Rutas individuales de empleabilidad. |
+| Observaciones | Se identifica un avance en la estructuración metodológica y documental de la actividad. Sin embargo, queda pendiente recopilar las rutas individuales diligenciadas y firmadas por los participantes, así como las evidencias de las sesiones de acompañamiento individual y grupal. No se certifica ejecución física ni cumplimiento definitivo del indicador hasta contar con soportes verificables. |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
