@@ -41,9 +41,9 @@ No reportar alianzas por contactos informales; conservar documentos firmados y a
 |---|---|
 | Fecha real de revisión | 01-18-2027 |
 | Responsable que valida | Camilo Valero – Responsable funcional de Orientación e intermediación laboral. |
-| Soporte revisado | Plantilla de rutas individuales de empleabilidad, guía de entrevista, plan de sesiones y formato de seguimiento individual y grupal. |
-| Resultado de validación | Validación documental parcial. Se verifica la existencia de los formatos y la metodología propuesta para documentar las rutas de empleabilidad. |
-| Enlace al soporte autorizado | Repositorio documental del proyecto – Carpeta ACT-08: Rutas individuales de empleabilidad. |
-| Observaciones | Se identifica un avance en la estructuración metodológica y documental de la actividad. Sin embargo, queda pendiente recopilar las rutas individuales diligenciadas y firmadas por los participantes, así como las evidencias de las sesiones de acompañamiento individual y grupal. No se certifica ejecución física ni cumplimiento definitivo del indicador hasta contar con soportes verificables. |
+| Soporte revisado | Mapa de actores institucionales, base de contactos de empresas e instituciones de formación, presentación de propuesta de valor y minuta de carta de intención para formalización de alianzas. |
+| Resultado de validación | Validación documental parcial. Se verifica la estructuración de los instrumentos para la identificación, priorización y gestión de posibles aliados institucionales. Queda pendiente acreditar la formalización de las alianzas mediante documentos firmados. |
+| Enlace al soporte autorizado | Repositorio documental del proyecto – Carpeta ACT-09: Creación de alianzas institucionales. |
+| Observaciones | Se evidencia un avance en la identificación de actores estratégicos y en la preparación de herramientas para gestionar alianzas con empresas e instituciones de formación. Sin embargo, se encuentra pendiente la presentación de convenios o cartas de intención debidamente firmados y vigentes que permitan acreditar el cumplimiento del criterio de cierre de mínimo cinco aliados institucionales. No se certifica el cumplimiento del indicador hasta contar con los respectivos soportes verificables. |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
