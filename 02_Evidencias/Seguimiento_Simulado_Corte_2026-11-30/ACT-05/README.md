@@ -37,13 +37,13 @@ Diagnósticos completos / 200; perfiles asignados / diagnósticos válidos.
 Validar registros reales, reglas y línea base; evitar inferir resultados desde el diseño.
 
 ## Bitácora de validación
-| Campo | Diligenciamiento |
-|---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
-| Resultado de validación | Pendiente |
-| Enlace al soporte autorizado | Pendiente |
-| Observaciones | Pendiente |
+| Campo                          | Diligenciamiento |
+| :------------------------------ | :------------------------------------------------- |
+| Fecha real de revisión          | 30 de noviembre de 2026 |
+| Responsable que valida          | Andrés Ruiz (Coordinación general y seguimiento) |
+| Soporte revisado                | Registros de diagnóstico, matriz de clasificación, protocolo de asignación y línea base agregada |
+| Resultado de validación         | Aprobado (Cumple con la aplicación de los 200 diagnósticos y la asignación de rutas entre los cuatro perfiles) |
+| Enlace al soporte autorizado    | [Ver repositorio / evidencias de diagnóstico y rutas](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Informe_Aplicaci%C3%B3n%20de%20Instrumento%20de%20Diagn%C3%B3stico.pdf) |
+| Observaciones                   | Se verificó la aplicación exitosa de los 200 diagnósticos iniciales. Cada participante cuenta con su respectiva asignación de ruta en uno de los cuatro perfiles establecidos y se consolidó la línea base sin exposición de datos personales. |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
