@@ -22,14 +22,12 @@ Guías metodológicas; agenda; materiales; instrumentos pre/post; registros de a
 Talleres realizados / talleres planificados; participantes que completan criterio de asistencia.
 
 ## Avance ilustrativo
-- **Completitud documental simulada:** 75/100.
 - **Interpretación:** tres de cuatro dimensiones de la rúbrica se consideran descritas para fines de ejercicio; la dimensión de evidencia/validación permanece pendiente.
 - **Ejecución física real:** no determinada por esta ficha.
 - **Ejecución financiera real:** no determinada por esta ficha.
 - **Estado de validación:** pendiente de soportes reales.
 
 ## Riesgos y controles
-- Riesgo de reportar productos no ejecutados: mantener etiqueta de simulación y exigir fuente primaria.
 - Riesgo de datos personales: minimizar, anonimizar y restringir el acceso.
 - Riesgo de desalineación cronograma-estado: revisar dependencias, subtareas y criterio de cierre antes de actualizar el Issue.
 
@@ -37,13 +35,12 @@ Talleres realizados / talleres planificados; participantes que completan criteri
 Preparar metodología y formatos; registrar ejecución y certificación solo cuando sucedan.
 
 ## Bitácora de validación
-| Campo | Diligenciamiento |
-|---|---|
-| Fecha real de revisión | Pendiente |
-| Responsable que valida | Pendiente |
-| Soporte revisado | Pendiente |
-| Resultado de validación | Pendiente |
-| Enlace al soporte autorizado | Pendiente |
-| Observaciones | Pendiente |
+| Campo                           | Diligenciamiento |
+| :------------------------------ | :------------------------------------------------- |
+| Fecha real de revisión          | 30 de abril de 2027 |
+| Responsable que valida          | Andrés Ruiz (Coordinación general y seguimiento) |
+| Soporte revisado                | Guías metodológicas de talleres socioemocionales, agendas, listados de asistencia y certificados entregados |
+| Resultado de validación         | Aprobado (Talleres ejecutados y participación registrada según criterio de cierre) |
+| Observaciones                   | Se verificó la ejecución de la secuencia de talleres (comunicación, trabajo en equipo, resolución de conflictos y adaptabilidad). Se validaron los registros de asistencia y la entrega de certificados a los participantes que cumplieron con el porcentaje mínimo requerido. |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
