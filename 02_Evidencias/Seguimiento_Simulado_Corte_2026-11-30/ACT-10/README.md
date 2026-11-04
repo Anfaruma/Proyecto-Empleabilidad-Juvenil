@@ -41,7 +41,7 @@ Al corte, documentar plan y formatos; no declarar evento realizado ni inventar a
 |---|---|
 | Fecha real de revisión | 15 de enero de 2027 |
 | Responsable que valida | Lorena Salamanca Tarapues |
-| Soporte revisado | Pendiente |
+| Soporte revisado | Informe con empresas participantes, jóvenes asistentes y vacantes ofertadas |
 | Resultado de validación | Pendiente |
 | Enlace al soporte autorizado | Pendiente |
 | Observaciones | Pendiente |
