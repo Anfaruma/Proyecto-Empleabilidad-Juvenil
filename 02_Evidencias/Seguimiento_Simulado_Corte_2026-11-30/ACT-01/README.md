@@ -43,7 +43,7 @@ Validar versión aprobada y completar línea base con fuente verificable.
 | Responsable que valida | Andres Ruiz |
 | Soporte revisado | Plan Operativo de seguimiento |
 | Resultado de validación | Cerrado |
-| Enlace al soporte autorizado | Cerrado |
+| Enlace al soporte autorizado | (https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Lienzo%20de%20Modelaci%C3%B3n%20del%20Proyecto%20(Canvas).pdf) |
 | Observaciones | NA |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
