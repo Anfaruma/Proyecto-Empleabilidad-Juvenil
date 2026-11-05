@@ -43,7 +43,7 @@ Obtener validación técnica, jurídica y de protección de datos antes de recop
 | Responsable que valida | Andres Ruiz |
 | Soporte revisado | Instrumento de caracterización validado |
 | Resultado de validación | Cerrado |
-| Enlace al soporte autorizado | Cerrado |
+| Enlace al soporte autorizado | (https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/blob/main/01_Formulacion/Instrumento%20de%20Diagn%C3%B3stico%20Caracterizaci%C3%B3n%20y%20Barreras%20de%20Empleabilidad.pdf) |
 | Observaciones | Encuesta Simulada |
 
 **Issue relacionado:** consultar la actividad en [GitHub Issues](https://github.com/Anfaruma/Proyecto-Empleabilidad-Juvenil/issues).
